@@ -1,2 +1,2 @@
 # FlappyBird
-FloppyBird Clone using C# and Unity
+FlappyBird Clone using C# and Unity
